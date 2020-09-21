@@ -1,3 +1,3 @@
-#Random String Generator
+# Random String Generator
 
-##You can use this to make passwords idk
+## You can use this to make passwords idk
